@@ -7,14 +7,12 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "SFAM konferens",
+      name: "SFAM kongress",
       description: "Conference description",
       date: "November 15",
       price: "$100",
-      venue: "Coco Bongo",
       address: "Boulevard Kukulcan, 30",
       city: "Cancún",
-      state: "Quintana"
     },
 
     // Site info
@@ -148,6 +146,7 @@ module.exports = {
         },
         presentation: {
           title: "Why do I prefer Android over iPhone",
+          title: "Why do I prefer Android over iPhone", 
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
           time: "17h00"
         }
@@ -167,7 +166,6 @@ module.exports = {
     partners: [
       {
         name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
         url: "http://braziljs.org"
       }
     ],
