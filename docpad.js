@@ -10,9 +10,11 @@ module.exports = {
       name: "SFAM kongress",
       description: "Conference description",
       date: "November 15",
-      price: "$100",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
+      price: "Endast 15 platser kvar...",
+      venue: "Västerås Konserthus",
+      address: "Storgatan 10",
+      city: "Västerås",
+      state: "Sweden"
     },
 
     // Site info
@@ -27,6 +29,7 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
+      'examinand',
       'location',
       'speakers',
       'schedule',
@@ -37,13 +40,14 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
+      about: "Om kongressen",
+      examinand: "Examinand",
       location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      speakers: "Medverkande",
+      schedule: "Program",
+      sponsors: "Sponsorer",
+      partners: "Medarbetare",
+      contact: "Kontakt"
     },
 
     // The entire schedule
@@ -53,7 +57,7 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Linus Torvalds",
+        name: "Allmänläkare",
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Linux Foundation",
@@ -145,7 +149,6 @@ module.exports = {
           text: "@woz"
         },
         presentation: {
-          title: "Why do I prefer Android over iPhone",
           title: "Why do I prefer Android over iPhone", 
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
           time: "17h00"
@@ -166,6 +169,7 @@ module.exports = {
     partners: [
       {
         name: "BrazilJS",
+        logo: "img/Page 4.png", 
         url: "http://braziljs.org"
       }
     ],
