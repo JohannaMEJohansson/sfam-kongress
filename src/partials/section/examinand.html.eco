@@ -1,0 +1,4 @@
+<h2 class="section-title"><%= @labels['examinand'] %></h2>
+
+<p itemprop="description">Information till examinanderna.</p>
+
