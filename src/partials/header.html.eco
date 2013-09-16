@@ -8,7 +8,7 @@
     <div class="call-action-area">
       <span class="price"><%= @conf.price %></span>
       <a href="http://sfam.se
-      " class="call-action-link" title="Register now!">Anmäl dig nu!</a>
+      " class="call-action-link" title="Register now!">Anmäl dig här!</a>
     </div>
   </div>
 </header>

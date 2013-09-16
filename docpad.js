@@ -9,10 +9,10 @@ module.exports = {
     conf: {
       name: "SFAM kongress",
       description: "Conference description",
-      date: "November 15",
-      price: "Endast 15 platser kvar...",
-      venue: "Västerås Konserthus",
-      address: "Storgatan 10",
+      date: "14-16 maj 2014",
+      price: "snart kan du anmäla dig här...",
+      venue: "Aros Congress Center",
+      address: "Munkgatan 7",
       city: "Västerås",
       state: "Sweden"
     },
@@ -29,22 +29,25 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
-      'examinand',
       'location',
       'speakers',
       'schedule',
+      'examinand',
+      'social',
       'sponsors',
-      'partners'
+      'partners',
+      'contact'
       // 'contact'
     ],
 
     // Labels which you can translate to other languages
     labels: {
-      about: "Om kongressen",
-      examinand: "Examinand",
-      location: "Location",
+      about: "Välkommen",
+      location: "Om kongressen",
       speakers: "Medverkande",
       schedule: "Program",
+      examinand: "Examinand",
+      social: "Sociala aktiviteter",
       sponsors: "Sponsorer",
       partners: "Medarbetare",
       contact: "Kontakt"
@@ -59,7 +62,7 @@ module.exports = {
       {
         name: "Allmänläkare",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        bio: "kommer snart...",
         company: "Linux Foundation",
         link: {
           href: "http://twitter.com/linus",
@@ -161,7 +164,7 @@ module.exports = {
       {
         name: "Eventick",
         logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        url: "http://kongress.sfam.se"
       }
     ],
 
@@ -169,8 +172,8 @@ module.exports = {
     partners: [
       {
         name: "BrazilJS",
-        logo: "img/Page 4.png", 
-        url: "http://braziljs.org"
+        logo: "upload/logosfam.png", 
+        url: "http://kongress.sfam.se"
       }
     ],
 

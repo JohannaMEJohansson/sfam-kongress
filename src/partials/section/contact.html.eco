@@ -1,17 +1,17 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ducimus neque amet corrupti ex temporibus similique.</p>
+<p>Har du några frågor angående kongressen var vänlig sänd oss ett meddelande.</p>
 <form method="post" action="contact.php" id="form" class="form">
   <div class="control-group control-group-name">
-    <label for="name">Name</label>
-    <input type="text" name="name" id="name" placeholder="Your name">
+    <label for="namn">Namn</label>
+    <input type="text" namn="namn" id="namn" placeholder="Ditt namn">
   </div>
   <div class="control-group control-group-email">
     <label for="email">E-mail</label>
-  <input type="email" name="email" id="email" placeholder="Your e-mail">
+  <input type="email" name="email" id="email" placeholder="Din e-mailadress">
   </div>
   <div class="control-group">
-    <label for="message">Message</label>
-  <textarea name="" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
+    <label for="meddelande">Meddelande</label>
+  <textarea name="" id="message" cols="30" rows="10" placeholder="Ditt meddelande"></textarea>
   </div>
-  <input class="btn btn-send" type="submit" value="Send">
+  <input class="btn btn-send" type="submit" value="Skicka">
 </form>
