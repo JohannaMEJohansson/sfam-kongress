@@ -7,10 +7,10 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "SFAM kongress",
+      name: "Kommunikation och Kompetens",
       description: "Conference description",
       date: "14-16 maj 2014",
-      price: "snart kan du anmäla dig här...",
+      price: "Anmäl dig här",
       venue: "Aros Congress Center",
       address: "Munkgatan 7",
       city: "Västerås",

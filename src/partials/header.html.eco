@@ -9,8 +9,12 @@
       <span class="price"><%= @conf.price %></span>
       <a href="http://sfam.se
       " class="call-action-link" title="Register now!">Anmäl dig här!</a>
-    </div>
+       </div>
   </div>
+   <div class="logo-area">
+    <img src="upload/TEST_LOGGA_77.gif" class="logo-area-link"</a>
+    </div>
+    </div>
 </header>
 <!--  / HEADER -->
 
