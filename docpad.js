@@ -7,7 +7,7 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Kommunikation och Kompetens",
+      name: "Kommunikation och ops",
       description: "Conference description",
       date: "14-16 maj 2014",
       price: "Anmäl dig här",
