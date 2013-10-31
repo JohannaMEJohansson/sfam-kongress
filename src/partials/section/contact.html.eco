@@ -1,17 +1,2 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
 <p>Har du några frågor angående kongressen var vänlig sänd oss ett meddelande.</p>
-<form method="post" action="contact.php" id="form" class="form">
-  <div class="control-group control-group-name">
-    <label for="namn">Namn</label>
-    <input type="text" namn="namn" id="namn" placeholder="Ditt namn">
-  </div>
-  <div class="control-group control-group-email">
-    <label for="email">E-mail</label>
-  <input type="email" name="email" id="email" placeholder="Din e-mailadress">
-  </div>
-  <div class="control-group">
-    <label for="meddelande">Meddelande</label>
-  <textarea name="" id="message" cols="30" rows="10" placeholder="Ditt meddelande"></textarea>
-  </div>
-  <input class="btn btn-send" type="submit" value="Skicka">
-</form>
