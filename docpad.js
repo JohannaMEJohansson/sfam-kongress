@@ -163,7 +163,7 @@ module.exports = {
     sponsors: [
       {
         name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
+        logo: "upload/logosfam.png",
         url: "http://kongress.sfam.se"
       }
     ],

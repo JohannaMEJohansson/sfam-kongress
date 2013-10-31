@@ -1,0 +1,4 @@
+<h2 class="section-title"><%= @labels['social'] %></h2>
+
+<p itemprop="description">Sociala aktiviteter.</p>
+
