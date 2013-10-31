@@ -1,2 +1,10 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
-<p>Har du några frågor angående kongressen var vänlig sänd oss ett meddelande.</p>
+<p>Har du några frågor angående kongressen var vänlig kontakta Sfams Kansli Heléne Swärd Postadress: Box 503, 11411 Stockholm
+Besöksadress: Grev Turegatan 10 E
+Tel: 08-23 24 05 Fax: 08-20 03 35
+    <div class="call-action-area">
+      <span class="price"><%= @conf.price %></span>
+      <a href="http://www.sfam.se/index.php?option=com_rsform&formId=47
+      " class="call-action-link" title="Register now!">Anmäl dig här!</a>
+       </div>
+</p>
