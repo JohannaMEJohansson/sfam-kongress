@@ -31,7 +31,7 @@ Vid avbokning pga sjukdom, med läkarintyg, efter 1 april återbetalas hela konf
 <tr>
 <td>ST-läkare</td>
 <td>Ej medlem i SFAM</td>
-<td>5250 kr</td>
+<td>5600 kr</td>
 </tr>
 <tr>
 <td>Pensionär</td>
@@ -127,4 +127,4 @@ Vägbeskrivning
   <span itemprop="addressRegion"> <%= @conf.state %></span>
 </p>
 
-<div id="map-canvas" class="location-area" data-address="<%= @conf.address %>"></div>
+<div id="map-canvas" class="location-area" data-address="<%= @conf.address %>,<%= @conf.city %>,<%= @conf.state %>"></div>
