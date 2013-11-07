@@ -162,10 +162,10 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "upload/logosfam.png",
-        url: "http://kongress.sfam.se"
-      }
+        name: "Landstingetvastmanland",
+        logo: "upload/Landstingetvstmlloggan.gif",
+        url: "http://www.ltv.se"
+      },
     ],
 
     // List of Partners
@@ -173,7 +173,7 @@ module.exports = {
       {
         name: "BrazilJS",
         logo: "upload/logosfam.png", 
-        url: "http://kongress.sfam.se"
+        url: "http://www.sfam.se"
       }
     ],
 
