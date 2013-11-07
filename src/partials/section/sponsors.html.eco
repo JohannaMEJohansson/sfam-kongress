@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['sponsors'] %></h2>
-<p>Aros Congress har mycket väl exponerade utställningslokaler. Var vänlig se <a href="http://www.acc.se"</a>http://www.acc.se</a>.
-Kongressen har beslutat att i princip inte sponsras av hyrläkarföretag och läkemedelsindustrin.
+<p>Aros Congress har mycket väl exponerade utställningslokaler (ladda ner <a href="/upload/acc lokalbroschyr(3).pdf" target="new"</a>lokalbroschyr</a>). För Aros hemsida var vänlig se <a href="http://www.acc.se"</a>http://www.acc.se</a>.
+Kongressen har beslutat att i princip<em> inte</em> sponsras av hyrläkarföretag och läkemedelsindustrin.
 <br>Utställare och sponsorer är välkomna att kontakta Jonas Sjögreen, <a href"mailto:jonas.sjogreen@ptj.se"</a>jonas.sjogreen@ptj.se</a>, mobil 070-6799283.</p>
 <ul class="sponsors-list">
 
