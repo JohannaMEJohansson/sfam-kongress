@@ -1,5 +1,5 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">Svensk Förening för Allmänmedicin (SFAM) anordnar i Västerås den årliga kongressen 2014, 14/5-16/5 under temat "Kommunikation och Kompetens". Kongressen hålls på Aros Congress Center i Västerås.
+<p itemprop="description">Svensk Förening för Allmänmedicin, Sfam anordnar i Västerås den årliga kongressen 2014, 14/5-16/5 under temat "Kommunikation och Kompetens". Kongressen hålls på Aros Congress Center i Västerås.
 </p>
 
 
