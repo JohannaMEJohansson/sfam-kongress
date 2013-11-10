@@ -54,22 +54,139 @@ module.exports = {
     },
 
     // The entire schedule
-    schedule: [
+    speakers: [
       {
-        name: "Check-in / Breakfast",
-        time: "9h00"
+        name: "Checbbvreakfast",
+        time: "9dfs"
       },
       {
-        name: "Allmänläkare",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "kommer snart...",
-        company: "Linux Foundation",
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+          href: "http://dhhg.com/linus",
+          text: "@lidguggs"
         },
         presentation: {
-          title: "Digging into a Linux Kernel",
+          title: "Diggidg Linux Kernel",
+          description: "Lorenggnm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "10h00"
+        }
+      },
+      {
+        name: "Checbbvreakfast",
+        time: "9dfs"
+      },
+      {
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
+        link: {
+          href: "http://dhhg.com/linus",
+          text: "@lidguggs"
+        },
+        presentation: {
+          title: "Diggidg Linux Kernel",
+          description: "Lorenggnm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "10h00"
+        }
+      },
+      {
+        name: "Checbbvreakfast",
+        time: "9dfs"
+      },
+      {
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
+        link: {
+          href: "http://dhhg.com/linus",
+          text: "@lidguggs"
+        },
+        presentation: {
+          title: "Diggidg Linux Kernel",
+          description: "Lorenggnm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "10h00"
+        }
+      },
+      {
+        name: "Checbbvreakfast",
+        time: "9dfs"
+      },
+      {
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
+        link: {
+          href: "http://dhhg.com/linus",
+          text: "@lidguggs"
+        },
+        presentation: {
+          title: "Diggidg Linux Kernel",
+          description: "Lorenggnm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "10h00"
+        }
+      },
+      {
+        name: "Checbbvreakfast",
+        time: "9dfs"
+      },
+      {
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
+        link: {
+          href: "http://dhhg.com/linus",
+          text: "@lidguggs"
+        },
+        presentation: {
+          title: "Diggidg Linux Kernel",
+          description: "Lorenggnm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "10h00"
+        }
+      },
+      {
+        name: "Checbbvreakfast",
+        time: "9dfs"
+      },
+      {
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
+        link: {
+          href: "http://dhhg.com/linus",
+          text: "@lidguggs"
+        },
+        presentation: {
+          title: "Diggidg Linux Kernel",
+          description: "Lorenggnm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "10h00"
+        }
+      },
+      ],
+
+      schedule: [
+      {
+        name: "Checbbvreakfast",
+        time: "9dfs"
+      },
+      {
+        name: "Allmäddvgare",
+        photo: "themvdgdw-swan/img/speaker.jpg",
+        bio: "kommer sdgf...",
+        company: "Linuxdfgndation",
+        link: {
+          href: "http://dg.com/linus",
+          text: "@lidgus"
+        },
+        presentation: {
+          title: "Diggidg Linux Kernel",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
           time: "10h00"
         }
