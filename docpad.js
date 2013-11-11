@@ -158,6 +158,24 @@ module.exports = {
         }
       }
     ],
+    // List of speakers
+    speakers: [
+      {
+        name: "Johanna Johansson",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "bla bla bla.",
+        company: "SFAM",
+        link: {
+          href: "http://sfam.com/",
+          text: "@jojo"
+        },
+        presentation: {
+          title: "hej",
+          description: "hhalloy",
+          time: "10h00"
+        }
+       } 
+      ],
 
     // List of Sponsors
     sponsors: [
