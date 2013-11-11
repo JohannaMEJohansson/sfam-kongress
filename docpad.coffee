@@ -136,7 +136,7 @@ module.exports =
     # List of speakers
     speakers: [
       name: "Göran Rosenberg"
-      photo: "upload/Foto Goran Ros.tif"
+      photo: "upload/Foto Goran Ros.jpg"
       bio: "Göran Rosenberg, välkänd författare och journalist, nu aktuell som krönikör i Godmorgon Världen i radions P1. Han är inledningstalare efter inledningsceremonin på onsdag den 14 maj under rubriken - Vad bör en läkare kunna, några icke medicinska reflexioner - På eftermiddagen följer ett samtal mellan med dr, distriktsläkaren Christer Petersson och Göran Rosenberg och utgångspunkt hans anförande. "
       company: "SFAM"
       link:
@@ -149,7 +149,7 @@ module.exports =
         time: ""
     ,
       name: "Trisha Greenhalgh"
-      photo: "upload/Trisha G foto.tif"
+      photo: "upload/Trisha G foto.jpg"
       bio: "Trisha Greenhalgh, professor i allmänmedicin i London är en av kongressen mest spännande föreläsare. På torsdag morgon den 15 maj får vi höra henne utveckla tankar om  - Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread? - Det  kan ge ett vasst svar på framtidsutopin från Socialdeparetmentet - Empati och high tech - . På eftermiddagen finns möjlighet till en fördjupning i en workshop med Trisha Greenhalgh"
       company: "SFAM"
       link:
@@ -162,7 +162,7 @@ module.exports =
         time: ""
     ,
       name: "Jan-Helge Larsen"
-      photo: "upload/bild kommer snart.tif"
+      photo: "upload/bild kommer snart.jpg"
       bio: "Konsultationskonst kommer att belysas ur flera perspektiv. 
       Bland annat kommer Jan-Helge Larsen, dansk allmänläkare att föreläsa. Jan-Helge Larsen har under många år drivit konsultationskurser på Kalymnos. Hundratals svenska allmänläkare har vallfärdat till Kalymnos och fått kunskap och inspiration. Nu har du chansen komma till Västerås och höra honom i en koncentrerad interaktiv kombination av föreläsning och workshop med titeln Konsultationen - Patientens del med hjälp av  5 kort."
       company: "SFAM"
@@ -176,7 +176,7 @@ module.exports =
         time: ""
     ,
       name: "Roger Neighbour"
-      photo: "upload/Neighbour Roger.tif"
+      photo: "upload/Neighbour Roger.jpg"
       bio: "Vi är mycket stolta över att Roger Neighbour, fd president i Royal College of General Practitioners, RCGP, kommer till kongressen. Han är en internationellt mycket uppskattad lärare, föreläsare och inspiratör inom allmänmedicinsk utbildning. Hans specialområde är konsultationen och har bland annat skrivit boken - The inner consultation -.
       Han kommer att hålla en föreläsning med titeln - Inchworms and also-rans: why generalism is special-. Hans bildtexter kommer att översättas till svenska.  
       Det blir ett uppföljande workshop - The first five minutes - the basis for an effective consultation."
@@ -191,7 +191,7 @@ module.exports =
         time: ""
     ,
       name: "Olle Hellström"
-      photo: "upload/olle.tif"
+      photo: "upload/olle.jpg"
       bio: "Olle Hellström, med dr och distriktsläkare i Borlänge aktuell i en engagerad och engagerande diskussion på SFAMs Ordbyte kommer att tala på kongressen i Västerås.
       Nu har du möjlighet tränga djupare in i hans tankar och idéer när han har ett seminarium under rubriken - Hör inte doktorn vad jag tiger om -."
       company: "SFAM"
@@ -205,7 +205,7 @@ module.exports =
         time: ""
     ,
       name: "Charlotte Tulinius"
-      photo: "upload/Charlotte.tif"
+      photo: "upload/Charlotte.jpg"
       bio: "Charlotte Tulinius Associate Professor of Postgraduate Education, Köpenhamn och Cambridge
       På fredagen den 16 maj håller hon en föreläsning  om kreativitet, konst, kunskap och kompetens: Studying and teaching - läkekonst - through art and creativity. Där går också att delta i en workshop på eftermiddagen för att närmare ta del av Charlotte Tulinius kvalitativa forskning inom allmänmedicinen."
       company: "SFAM"
