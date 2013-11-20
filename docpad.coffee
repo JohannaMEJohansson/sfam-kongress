@@ -163,7 +163,7 @@ module.exports =
     ,
       name: "Trisha Greenhalgh"
       photo: "upload/Trisha G foto.jpg"
-      bio: "Trisha Greenhalgh, professor i allmänmedicin i London är en av kongressen mest spännande föreläsare. På torsdag morgon den 15 maj får vi höra henne utveckla tankar om  - Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread? - Det  kan ge ett vasst svar på framtidsutopin från Socialdeparetmentet - Empati och high tech - . På eftermiddagen finns möjlighet till en fördjupning i en workshop med Trisha Greenhalgh"
+      bio: "Trisha Greenhalgh, professor i allmänmedicin i London är en av kongressens mest spännande föreläsare. På torsdag morgon den 15 maj får vi höra henne utveckla tankar om  - Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread? - Det  kan ge ett vasst svar på framtidsutopin från Socialdeparetmentet - Empati och high tech - . På eftermiddagen finns möjlighet till en fördjupning i en workshop med Trisha Greenhalgh"
       company: "SFAM"
       link:
         href: ""
@@ -175,8 +175,8 @@ module.exports =
         time: ""
     ,
       name: "Jan-Helge Larsen"
-      photo: "upload/bild kommer snart.jpg"
-      bio: "Konsultationskonst kommer att belysas ur flera perspektiv. 
+      photo: "upload/JHL.jpg"
+      bio: "Konsultationskonst kommer att belysas ur flera perspektiv på kongressen. 
       Bland annat kommer Jan-Helge Larsen, dansk allmänläkare att föreläsa. Jan-Helge Larsen har under många år drivit konsultationskurser på Kalymnos. Hundratals svenska allmänläkare har vallfärdat till Kalymnos och fått kunskap och inspiration. Nu har du chansen komma till Västerås och höra honom i en koncentrerad interaktiv kombination av föreläsning och workshop med titeln Konsultationen - Patientens del med hjälp av  5 kort."
       company: "SFAM"
       link:
