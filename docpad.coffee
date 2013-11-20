@@ -148,6 +148,19 @@ module.exports =
         description: ""
         time: ""
     ,
+      name: "Christer Petersson"
+      photo: "upload/Christer Petersson.jpg"
+      bio: "Christer Petersson, med dr och distriktsläkare i Växjö, är en uppskattad skribent i Allmänmedicin och Läkartidningen under många år. Han är författare bland annat till boken Allmänmedicinens vardag.  Christer kommer att leda ett samtal med Göran Rosenberg efter dennes inledningsanförande på onsdag eftermiddag"
+      company: "SFAM"
+      link:
+        href: ""
+        text: ""
+
+      presentation:
+        title: ""
+        description: ""
+        time: ""
+    ,
       name: "Trisha Greenhalgh"
       photo: "upload/Trisha G foto.jpg"
       bio: "Trisha Greenhalgh, professor i allmänmedicin i London är en av kongressen mest spännande föreläsare. På torsdag morgon den 15 maj får vi höra henne utveckla tankar om  - Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread? - Det  kan ge ett vasst svar på framtidsutopin från Socialdeparetmentet - Empati och high tech - . På eftermiddagen finns möjlighet till en fördjupning i en workshop med Trisha Greenhalgh"
@@ -224,6 +237,10 @@ module.exports =
       name: "Landstingetvastmanland"
       logo: "upload/Landstingetvstmlloggan.gif"
       url: "http://www.ltv.se"
+    ,
+      name: "Västeråsstad"
+      logo: "upload/vasteras_stad_logga.jpg"
+      url: "http://www.vasteras.se/"
     ]
     
     # List of Partners
