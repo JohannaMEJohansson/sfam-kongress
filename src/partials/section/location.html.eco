@@ -56,6 +56,7 @@ Vid avbokning pga sjukdom, med läkarintyg, efter 1 april återbetalas hela konf
 
     <h4>Hotell</h4>
     <p>Hotellrum bokar du via anmälningsformuläret till Kongressen där du anger önskemål om vilket hotell du önskar bo på. Sfam har reserverat rum för deltagare till mötet på sju olika hotell. Priset avser per person och natt inkl moms. För mer information om hotellen klicka på respektive hotell. Efter den 14 april sker bokning, avbokning samt ändring av hotell via direktkontakt med respektive hotell.</p>
+
 <p>
 <table class="location-tbl">
 <tr>
@@ -121,3 +122,5 @@ Vägbeskrivning
 </p>
 
 <div id="map-canvas" class="location-area" data-address="<%= @conf.address %>,<%= @conf.city %>,<%= @conf.state %>"></div>
+<p><span style="font-size: 10pt;"><em>Alla hotell på listan utom Quality Hotell ligger på gångavstånd, 150-800 meter från Aros Congress Center. (Quality Hotell passar bäst för bilburna).</em></span></p>
+<p>
