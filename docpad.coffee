@@ -219,8 +219,8 @@ module.exports =
     ,
       name: "Charlotte Tulinius"
       photo: "upload/Charlotte.jpg"
-      bio: "Charlotte Tulinius Associate Professor of Postgraduate Education, Köpenhamn och Cambridge
-      På fredagen den 16 maj håller hon en föreläsning  om kreativitet, konst, kunskap och kompetens: Studying and teaching - läkekonst - through art and creativity. Där går också att delta i en workshop på eftermiddagen för att närmare ta del av Charlotte Tulinius kvalitativa forskning inom allmänmedicinen."
+      bio: "Charlotte Tulinius Associate Professor of Postgraduate Education, Köpenhamn och Cambridge.
+      På fredagen den 16 maj håller hon en föreläsning  om kreativitet, konst, kunskap och kompetens: Studying and teaching - läkekonst - through art and creativity. Du kan också delta i en workshop på eftermiddagen för att diskutera och uppleva något av de metoder baserade på konst, som Chalotte använder i sin forskning"
       company: "SFAM"
       link:
         href: ""
