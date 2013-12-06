@@ -244,6 +244,21 @@ module.exports =
         title: "Mötet mellan migranten och vården - erfarenheter av hälsokommunikation med nyanlända"
         description: ""
         time: ""
+
+    ,
+
+      name: "Nina Cavalli-Björkman"
+      photo: "upload/Nina C B.jpg" 
+      bio: "Nina Cavalli-Björkman är onkolog med ett stort intresse för undervisning och för palliativ vård. Hon utkommer hösten 2014 med en bok riktad mot allmänmedicinare om att arbeta med svårt sjuka och döende patienter.Hon kommer att framträda med en föreläsning med rubriken - Samtal med de allra sjukaste: om kommunikation i palliativ vård"
+      company: ""
+      link:
+        href: ""
+        text: ""
+
+      presentation:
+        title: "Samtal med de allra sjukaste: om kommunikation i palliativ vård"
+        description: ""
+        time: ""
     ]
     
     # List of Sponsors
