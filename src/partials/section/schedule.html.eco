@@ -1,2 +1,10 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>Snart kommer du kunna ta del av programmet.</p>
+<p><strong>I år drar vi igång redan på onsdagen klockan 10:00 den 14 maj med ett fullmatat program!
+</strong><br>
+Registrering från kl 09:00. 
+Programmet rivstartar klockan 10:00 på onsdagen. Inriktningen är kunskap och "hands-on". Det blir demonstration av HLR-dockor, realistisk träning av venpunktion och ledinjektioner samt kunskapsinriktade seminarier och workshops.
+Vi har officiell invigning onsdag klockan 13:00, följt av ett inledningsanförande av författaren och journalisten Göran Rosenberg "Vad en läkare bör kunna - några icke-medicinska reflexioner". 
+Torsdagen och fredagen kommer att innehålla föreläsningar, workshops och seminarier kring årets tema ”Kommunikation och Kompetens”. Redan nu har vi engagerat en rad mycket spännande talare.
+Programmet slutar på fredagen 16 maj klockan 16:00
+Ett detaljerat program presenteras i slutet av januari.
+</p>
