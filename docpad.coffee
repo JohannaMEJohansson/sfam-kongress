@@ -268,7 +268,7 @@ module.exports =
       Hon leder också strimman Professionell Utveckling i den nya läkarutbildningen
       på Karolinska Institutet. Hon är författare till en uppmärksammad
       bok om samtalet ”Den skamlösa nyfikenheten”. Förra året fick hon Svenska
-      Läkaresällskapets Hippokratespris.  <br> Astrid Seeberger kommer att tala om ”Det goda samtalet i vårdproduktionens tid”
+      Läkaresällskapets Hippokratespris. Astrid Seeberger kommer att tala om ”Det goda samtalet i vårdproduktionens tid”
       Sjukvården drabbas av ständiga effektiviseringar och besparingar.  Har det lett
       till att det goda patientomhändertagandet är hotat idag? Har vi inte längre tid för
       de goda samtalen med patienterna? Behövs dessa samtal? Och vad sker ifall vi
