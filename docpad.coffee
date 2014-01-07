@@ -298,7 +298,34 @@ module.exports =
         title: "Det kollegiala samtalet går i Hemingwaystil"
         description: ""
         time: ""
+    ,
 
+      name: "John Nessa"
+      photo: "upload/John Nessa.jpg" 
+      bio: "John Nessa är allmänläkare i Bergen, Norge. Han disputerade 1999 med en avhandling om läkar-patientkommunikation ”Talk as medical work”. John Nessa har medicinsk filosofi och läkar-patientrelationen som intresseområden och har skrivit boken ”Medicin och existens”. Han har i många år varit medlem i redaktionskommittén för Tidskrift for Den norske legeforening. I sitt föredrag utvecklar han frågan ”Kva er allmennlegens spesifikkekompetanse?” Allmänläkarens kompetens är knuten till det interpersonella och generella, som ofta kallas läkekonst. Det handlar om att förstå patienten som person i lika hög grad som att förstå det medicinska tillståndet som patienten har. Det handlar om att utveckla en tillitsfull relation, skapa en terapeutisk kontext för att lindra lidande, stödja enskilda människor och underlätta förändring." 
+      company: ""
+      link:
+        href: ""
+        text: ""
+
+      presentation:
+        title: "Kva er allmennlegens spesifikke kompetanse?"
+        description: ""
+        time: ""
+    ,
+
+      name: "Sara Natt och Dag"
+      photo: "upload/bild kommer snart.jpg" 
+      bio: "Sara Natt och Dag är socionom, författare och skribent. Hon är också kurator vid Traumaenheten, på Karolinska Universitetssjukhuset, Solna. Hon har påbörjat ett forskningsarbete vid Karolinska Institutet vad gäller bloggande cancerpatienter." 
+      company: ""
+      link:
+        href: ""
+        text: ""
+
+      presentation:
+        title: "Bloggande patienter och twittrande läkare. Påverkas patient, anhörig och vård?"
+        description: ""
+        time: ""
     ]
     
     # List of Sponsors
