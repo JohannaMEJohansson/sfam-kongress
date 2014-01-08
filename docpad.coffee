@@ -315,7 +315,7 @@ module.exports =
     ,
 
       name: "Sara Natt och Dag"
-      photo: "upload/bild kommer snart.jpg" 
+      photo: "upload/SaraND.jpg" 
       bio: "Sara Natt och Dag är socionom, författare och skribent. Hon är också kurator vid Traumaenheten, på Karolinska Universitetssjukhuset, Solna. Hon har påbörjat ett forskningsarbete vid Karolinska Institutet vad gäller bloggande cancerpatienter." 
       company: ""
       link:
