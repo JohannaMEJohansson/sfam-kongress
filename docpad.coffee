@@ -338,7 +338,7 @@ module.exports =
         text: ""  
 
       presentation:
-        title: ""
+        title: "Chronic Tennis Elbow - Aspects on Pathogenesis and Treatment in a Soft Tissue Pain Condition"
         description: ""
         time: ""
     ]
