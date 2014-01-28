@@ -1,7 +1,7 @@
 <h2 class="section-title"><%= @labels['speakers'] %></h2>
 <p>Här nedan presenteras några av de medverkande vid kongressen. Vi fyller på med fler efter hand.</p>
 <ul class="speakers-list">
-<% for speaker in @speakers: %>
+<% for speaker in @getCollection('speakers').toJSON(): %>
   <% if speaker.presentation: %>
     <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
       <% if speaker.photo: %>
@@ -18,7 +18,7 @@
       </h3>
 
       <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
-      <p class="speakers-bio"><%= speaker.bio %></p>
+      <p class="speakers-bio"><%= speaker.content %></p>
     </li>
   <% end %>
 <% end %>
