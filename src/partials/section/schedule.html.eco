@@ -9,3 +9,38 @@ Torsdagen och fredagen kommer att innehålla föreläsningar, workshops och semi
 Programmet slutar på fredagen 16 maj klockan 16:00.
 Ett detaljerat program presenteras under februari.
 </p>
+
+
+<div class="schedule-tbl">
+  <% for day in @getCollection('schedule').toJSON(): %>
+    <h3><%= day.title %></h3>
+    <p><%= day.content %></p>
+    <% for block in day.startingTimes: %>
+    <% time = Object.keys(block)[0]%>
+    <table>
+      <tr>
+        <td>
+          <span class="speech-time"><%=time%>:</span>
+        </td>
+      <% for slot in block[time]: %>
+        <td class="speakers-item schedule-<%=slot.type%>">
+          <p><%=slot.title%></p>
+          <% if slot.speakers: %>
+            <% for speaker in slot.speakers: %>
+              <% more = @getCollection('speakers').findOne({name:speaker})%>
+              <% if more: %>
+                <div class="speaker-photo">
+                  <img class="photo" src="<%=more.toJSON().photo%>">
+                </div>
+              <% end %>
+              <div class="speaker"><%=speaker%></div>
+            <% end %>
+          <% end %>
+          <div class="time"><%=slot.time%></div>
+        </td>
+      <% end %>
+      </tr>
+    </table>
+    <% end %>
+  <% end %>
+</div>

@@ -5,6 +5,9 @@ module.exports =
     speakers: (database) ->
       database.findAllLive({relativeOutDirPath:'speakers'}, [pageOrder:1,title:1])
     
+    schedule: (database) ->
+      database.findAllLive({relativeOutDirPath:'schedule'}, [pageOrder:1,title:1])
+    
   # These are variables will be accessible via our templates
   templateData:
     
