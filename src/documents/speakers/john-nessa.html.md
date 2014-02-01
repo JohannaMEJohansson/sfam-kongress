@@ -1,11 +1,6 @@
 ---
 name: "John Nessa"
 photo: "upload/John Nessa.jpg" 
-bio: "" 
-company: ""
-link:
-  href: ""
-  text: ""
 
 presentation:
   title: "Kva er allmennlegens spesifikke kompetanse?"

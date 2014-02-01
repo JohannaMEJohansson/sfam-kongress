@@ -2,9 +2,6 @@
 name: "Astrid Seeberger"
 photo: "upload/Astrid S.jpg" 
 company: ""
-link:
-href: ""
-text: ""
 
 presentation:
 title: "Det goda samtalet i vårdproduktionens tid"

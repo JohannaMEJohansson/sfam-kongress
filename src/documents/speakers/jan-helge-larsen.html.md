@@ -2,9 +2,6 @@
 name: "Jan-Helge Larsen"
 photo: "upload/JHL.jpg"
 company: "SFAM"
-link:
-  href: ""
-  text: ""
 
 presentation:
   title: "Konsultationen - Patientens del med hjälp av  5 kort"

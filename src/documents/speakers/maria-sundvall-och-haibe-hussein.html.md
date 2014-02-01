@@ -1,11 +1,6 @@
 ---
 name: "Maria Sundvall och Haibe Hussein"
 photo: "upload/MariaoHaibe.jpg" 
-bio: ""
-company: ""
-link:
-  href: ""
-  text: ""
 
 presentation:
   title: "Mötet mellan migranten och vården - erfarenheter av hälsokommunikation med nyanlända"

@@ -1,11 +1,6 @@
 ---
 name: "Lars Englund"
 photo: "upload/lars_englund.jpg"
-bio: ""
-company: "SFAM"
-link:
-  href: ""
-  text: ""  
 
 presentation:
   title: "Allt du behöver veta om rutiner för medicinsk lämplighetsprövning för körkort. Frågan är fri!"

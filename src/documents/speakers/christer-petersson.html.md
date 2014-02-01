@@ -2,11 +2,6 @@
 name: "Christer Petersson"
 photo: "upload/Christer Petersson.jpg"
 
-company: "SFAM"
-link:
-  href: ""
-  text: ""
-
 presentation:
   title: ""
   description: ""

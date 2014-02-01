@@ -1,48 +1,11 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>I år drar vi igång redan på <strong>onsdagen den 14 maj klockan 10:00 </strong>med ett fullmatat program!
+<p>
+Nu är det första preliminära programmet för kongressen i Västerås klart!
 <br>
-<br>
-Registrering från kl 09:00. 
-Programmet rivstartar klockan 10:00 på onsdagen. Inriktningen är kunskap och "hands-on". Det blir demonstration av HLR-dockor, realistisk träning av venpunktion och ledinjektioner samt kunskapsinriktade seminarier och workshops.
-Vi har officiell invigning onsdag klockan 13:00, följt av ett inledningsanförande av författaren och journalisten Göran Rosenberg "Vad en läkare bör kunna - några icke-medicinska reflexioner". 
-Torsdagen och fredagen kommer att innehålla föreläsningar, workshops och seminarier kring årets tema ”Kommunikation och Kompetens”. Redan nu har vi engagerat en rad mycket spännande talare.
-Programmet slutar på fredagen 16 maj klockan 16:00.
-Ett detaljerat program presenteras under februari.
+Det kommer att bli en del förändringar med sådant som kan flyttas, läggas till och kanske dras ifrån.
+<div class="call-action-area">
+      <a href="/upload/prel program140130JJ.pdf"class="call-action-link" title="Register now!">Ladda ner programmet här</a>
+       </div>
 </p>
 
 
-<div class="schedule-tbl">
-  <% for day in @getCollection('schedule').toJSON(): %>
-    <h3><%= day.title %></h3>
-    <p><%= day.content %></p>
-    <% if day.startingTimes: %>
-      <% for block in day.startingTimes: %>
-      <% time = Object.keys(block)[0]%>
-      <table>
-        <tr>
-          <td>
-            <span class="speech-time"><%=time%></span>
-          </td>
-        <% for slot in block[time]: %>
-          <td class="speakers-item schedule-<%=slot.type%>">
-            <p><%=slot.title%></p>
-            <% if slot.speakers: %>
-              <% for speaker in slot.speakers: %>
-                <% more = @getCollection('speakers').findOne({name:speaker})%>
-                <% if more: %>
-                  <div class="speaker-photo">
-                    <img class="photo" src="<%=more.toJSON().photo%>">
-                  </div>
-                <% end %>
-                <div class="speaker"><%=speaker%></div>
-              <% end %>
-            <% end %>
-            <div class="time"><%=slot.time%></div>
-          </td>
-        <% end %>
-        </tr>
-      </table>
-      <% end %>
-    <% end %>
-  <% end %>
-</div>

@@ -1,11 +1,7 @@
 ---
 name: "Charlotte Tulinius"
 photo: "upload/Charlotte.jpg"
-bio: ""
 company: "SFAM"
-link:
-  href: ""
-  text: ""
 
 presentation:
   title: "Studying and teaching - läkekonst - through art and creativity"

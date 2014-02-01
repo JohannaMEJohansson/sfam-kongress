@@ -1,10 +1,6 @@
 ---
 name: "Olle Hellström"
 photo: "upload/olle.jpg"
-company: "SFAM"
-link:
-  href: ""
-  text: ""
 
 presentation:
   title: "Hör inte doktorn vad jag tiger om"

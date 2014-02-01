@@ -2,9 +2,6 @@
 name: "Annika Andén"
 photo: "upload/AnnikaAnden.jpg" 
 company: ""
-link:
-href: ""
-text: ""
 
 presentation:
 title: "Det kollegiala samtalet går i Hemingwaystil"

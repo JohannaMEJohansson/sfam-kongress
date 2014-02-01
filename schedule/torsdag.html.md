@@ -2,6 +2,7 @@
 pageOrder: 2
 title: Torsdag 15 maj
 startingTimes: 
+---
 	- "08:30":
 		- title: "Musik- kort tal SFAMs ordförande. Föreläsning ”Managing multi-morbidity in an ageing population Can dead philosophers help where guideline-makers fear to tread?” 
 		  speakers: 
@@ -12,7 +13,6 @@ startingTimes:
   - "10:00":
     - title: "10:00-17:00 Hands-on"
     - title: "10:00-12:00 Examensuppsatser
----
 	12:00-13:00 LUNCH
 
 	13:00-14:00 Föreläsning”Det goda samtalet i vårdproduktionens tid” Astrid Zeeberger
