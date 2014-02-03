@@ -11,7 +11,7 @@
 
     <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
    	<% if speaker.presentation: %>
-    	<h3><%= speaker.presentation.title %></h3>
+    	<h4><%= speaker.presentation.title %></h4>
     <% end %>
     <p class="speakers-bio"><%= speaker.content %></p>	
     
