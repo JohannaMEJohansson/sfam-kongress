@@ -1,6 +1,7 @@
 ---
 name: "Nina Cavalli-Björkman"
 photo: "upload/Nina C B.jpg" 
+pageOrder: "19"
 
 presentation:
   title: "Samtal med de allra sjukaste: om kommunikation i palliativ vård"

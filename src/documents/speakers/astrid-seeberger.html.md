@@ -1,12 +1,12 @@
 ---
 name: "Astrid Seeberger"
 photo: "upload/Astrid S.jpg" 
-company: ""
+pageOrder: "12"
 
 presentation:
-title: "Det goda samtalet i vårdproduktionens tid"
-description: ""
-time: ""
+	title: "Det goda samtalet i vårdproduktionens tid"
+	description: ""
+	time: ""
 ---
 
 Astrid Seeberger är docent och överläkare vid Karolinska Sjukhuset.

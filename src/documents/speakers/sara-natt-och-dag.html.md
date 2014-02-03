@@ -2,10 +2,7 @@
 name: "Sara Natt och Dag"
 photo: "upload/SaraND.jpg" 
 bio: "" 
-company: ""
-link:
-  href: ""
-  text: ""
+pageOrder: "9"
 
 presentation:
   title: "Bloggande patienter och twittrande läkare. Påverkas patient, anhörig och vård?"

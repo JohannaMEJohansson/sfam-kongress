@@ -1,8 +1,7 @@
 ---
 name: "Göran Rosenberg"
 photo: "upload/Foto Goran Ros.jpg"
-company: "SFAM"
-pageOrder: 1
+pageOrder: "0"
 
 presentation:
   title: "Vad bör en läkare kunna, några icke medicinska reflexioner"

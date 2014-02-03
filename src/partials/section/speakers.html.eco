@@ -10,7 +10,11 @@
     <% end %>
 
     <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
-    <p class="speakers-bio"><%= speaker.content %></p>
+   	<% if speaker.presentation: %>
+    	<h3><%= speaker.presentation.title %></h3>
+    <% end %>
+    <p class="speakers-bio"><%= speaker.content %></p>	
+    
   </li>
 <% end %>
 </ul>

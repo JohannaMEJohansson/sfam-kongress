@@ -1,10 +1,7 @@
 ---
 name: "Roger Neighbour"
 photo: "upload/Neighbour Roger.jpg"
-company: "SFAM"
-link:
-  href: ""
-  text: ""
+pageOrder: "10"
 
 presentation:
   title: "Inchworms and also-rans - why generalism is special"

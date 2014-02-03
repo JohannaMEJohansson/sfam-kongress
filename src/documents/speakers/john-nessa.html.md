@@ -1,6 +1,7 @@
 ---
 name: "John Nessa"
 photo: "upload/John Nessa.jpg" 
+pageOrder: "13"
 
 presentation:
   title: "Kva er allmennlegens spesifikke kompetanse?"

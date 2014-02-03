@@ -1,10 +1,7 @@
 ---
 name: "Trisha Greenhalgh"
 photo: "upload/Trisha G foto.jpg"
-company: "SFAM"
-link:
-  href: ""
-  text: ""
+pageOrder: "1"
 
 presentation:
   title: "Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread?"

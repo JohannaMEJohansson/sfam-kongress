@@ -2,7 +2,7 @@
 name: "Magnus Peterson"
 photo: "upload/MagnusP.jpg"
 company: "SFAM"
-pageOrder: 1
+pageOrder: "2"
 ---
 Ett flertal av de senaste årens allmänmedicinska avhandlingar kommer att presenteras av författarna.
 
