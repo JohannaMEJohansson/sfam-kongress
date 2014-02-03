@@ -3,6 +3,12 @@ name: "Magnus Peterson"
 photo: "upload/MagnusP.jpg"
 company: "SFAM"
 pageOrder: "2"
+presentation:
+  title: "Avhandling: Träning minskar smärtan vid kronisk tennisarmbåge"
+  description: ""
+  time: ""
+
+
 ---
 Ett flertal av de senaste årens allmänmedicinska avhandlingar kommer att presenteras av författarna.
 
