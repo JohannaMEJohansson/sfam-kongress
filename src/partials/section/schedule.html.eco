@@ -8,13 +8,7 @@ Det kommer att bli en del förändringar med sådant som kan flyttas, läggas ti
 </p>
 <table class="location-tbl">
 <tr>
-<td><h4>Onsdag 14 maj</h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"><h4>Onsdag 14 maj</h4></td>
 </tr>
 <tr>
 <td><strong>09:00</strong></td>
@@ -74,20 +68,6 @@ Lars Englund
 </tr>
 <tr>
 <td><strong>11:00</strong></td>
-<td>11:00-12:00
-<br>Hör inte doktorn vad jag tiger om?
-<br>
-Olle Hellström<br>
-</td>
-<td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</td>
-</tr>
-<tr>
-<td><strong>11:00</strong></td>
 <td>11:00-11:45<br>
 Workshop ”Kvalitativ metodik” 
 <br>Annika Brorsson
@@ -110,13 +90,8 @@ Seminarium ” Kvalitetsdialog inom Praktikertjänst - kollegialt sätt att stö
 </tr>
 <tr>
 <td><strong>12:00</strong></td>
-<td>12:00-13:00 
+<td colspan="5">12:00-13:00 
 LUNCH</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>13:00</strong></td>
@@ -201,12 +176,7 @@ MINGEL och underhållning med eld och ljud i konserthusets foajé.
 <p>
 <table class="location-tbl">
 <tr>
-<td><h4>Torsdag<br> 15 maj</h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"><h4>Torsdag 15 maj</h4></td>
 </tr>
 <tr>
 <td><strong>08:30</strong></td>
@@ -220,10 +190,12 @@ Trisha Greenhalgh
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td><strong>09:30</strong></td>
 <td>09:30-10:00 KAFFE</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,6 +211,7 @@ Presentation av examensuppsatser
 </td>
 <td>
 </td>
+<td></td>
 <td>
 </td>
 <td>
@@ -248,12 +221,8 @@ Presentation av examensuppsatser
 
 <tr>
 <td><strong>12:00</strong></td>
-<td>12:00-13:00 
+<td colspan="4">12:00-13:00 
 LUNCH</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>13:00</strong></td>
@@ -262,6 +231,13 @@ LUNCH</td>
 Föreläsning”Det goda samtalet i vårdproduktionens tid” 
 <br>
 Astrid Zeeberger
+</td>
+<td>
+13:00-14:00 
+<br>Hör inte doktorn vad jag tiger om?
+<br>
+Olle Hellström<br>
+<br>
 </td>
 <td>13:00-14:30 
 <br>
@@ -289,6 +265,7 @@ Symposium ”Nya rön om värk”
 <td><strong>14:30</strong></td>
 <td>14:30-15:00 KAFFE
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -323,6 +300,7 @@ Seminarium ”Patientcentrering och personcentrering – är det samma sak?”
 <br>
 moderator Cecilia Björkelund
 </td>
+<td></td>
 </tr>
 <tr>
 <td><strong>18:30</strong></td>
@@ -334,17 +312,14 @@ Bankett, hyllning av examinander, hissnande underhållning, musik och dans.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 </p>
 <p>
 <table class="location-tbl">
 <tr>
-<td><h4>Fredag <br>16 maj</h4></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="5"><h4>Fredag 16 maj</h4></td>
 </tr>
 <tr>
 <td><strong>08:30</strong></td>
@@ -423,11 +398,8 @@ Charlotte Hedberg
 </tr>
 <tr>
 <td><strong>12:00</strong></td>
-<td>12:00-13:00 
+<td colspan="4">12:00-13:00 
 LUNCH</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <td><strong>13:00</strong></td>
 <td>13:00-14:30 
