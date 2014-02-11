@@ -4,6 +4,468 @@ Nu är det första preliminära programmet för kongressen i Västerås klart!
 <br>
 Det kommer att bli en del förändringar med sådant som kan flyttas, läggas till och kanske dras ifrån.
 </p>
+<h2 class="section-title"><%= @labels['schedule'] %></h2>
+<p>
+Nu är det första preliminära programmet för kongressen i Västerås klart!
+<br>
+Det kommer att bli en del förändringar med sådant som kan flyttas, läggas till och kanske dras ifrån.
+
+
+</p>
+<table class="location-tbl">
+<tr>
+<td colspan="7"><h4>Onsdag 14 maj</h4></td>
+</tr>
+<tr>
+<td><strong>09:00</strong></td>
+<td>09:00 Registrering</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>09:30</strong></td>
+<td>09:30 KAFFE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>10:00</strong></td>
+<td>10:00-17:00<br> Hands-on
+</td>
+<td>10:00-10:45 <br>
+Workshop ”Anala besvär” 
+<br>Johan Carlander och Birger Thorell
+</td>
+<td>10:00-10:45 
+<br>Workshop ”Barnmagar”
+<br>Ulrika Fagerberg,
+<br>Terese Ring-Pettersson
+</td>
+<td>10:00-10:45 
+<br>Workshop ”KOL, en utmaning för oss i primärvåren. Vad har hänt det senaste decenniet?”<br>
+ Björn Ställberg, Karin Liss Pers
+</td>
+<td>10:00-11:30 
+<br>Seminarium ”Ersättningar i pv”
+<br>
+Karin Träff Nordström/ SFAMs styrelse
+</td>
+<td>10:00-12:00 
+<br>Möte för examinander 
+<br>Cecilia Ryding , SFAM-k
+</td>
+</tr>
+<tr>
+<td><strong>10:30</strong></td>
+<td>10:30-12:00<br>
+Workshop ”Allt du behöver veta om rutiner för medicinsk lämplighetsprövning för körkort. Frågan är fri!” <br> 
+Lars Englund
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>11:00</strong></td>
+<td>11:00-11:45<br>
+Workshop ”Kvalitativ metodik” 
+<br>Annika Brorsson
+</td>
+<td>11:00-12:00<br>
+Seminarium ”Primärvårdsregister”
+<br>Malin André
+</td>
+<td>11:00-12:00<br>
+Seminarium ”Samtal om levnadsvanor”
+<br>SFAMs levnadsvaneråd
+</td>
+<td>11:00-12:00 
+<br>
+Seminarium ” Kvalitetsdialog inom Praktikertjänst - kollegialt sätt att stödja varandra i kvalitetsarbetet”
+<br>Erik Tyrberg/ Praktikertjänst
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>12:00</strong></td>
+<td colspan="5">12:00-13:00 
+LUNCH</td>
+</tr>
+<tr>
+<td><strong>13:00</strong></td>
+<td>13:00-14:30 
+<br>Officiell invigning av kongressen välkomsttal, musik och dans. Inledningsanförande”Vad en läkare bör kunna, några icke medicinska reflexioner”
+Göran Rosenberg
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>14:30</strong></td>
+<td>14:30-15:00 KAFFE
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>15:00</strong></td>
+<td>15:00-15:45 
+<br>
+Samtal med Göran Rosenberg och Christer Petersson
+</td>
+<td>15:00-16:00 
+<br>
+Seminarium ”En bättre sjukskrivningsprocess” 
+<br>Försäkringskassan
+</td>
+<td>15:00-15:45 
+<br>
+”Forskning i primärvård”  
+ <br>allm med institution
+</td>
+<td>15:00-15:45
+<br> 
+Workshop ”Begripligt och nyttigt  om statistik”
+<br>Laura von Kobuletzki
+</td>
+<td>15:00-17:00 
+<br>
+Genomgång av skriftligt prov
+<br>
+Inge Carlsson och Gunnar Axelsson SFAM-k
+</td>
+<td>15:00-17:30 
+<br>
+SFAMs fullmäktigemöte
+</td>
+</tr>
+<tr>
+<td><strong>18:00</strong></td>
+<td>18:00-19:00 
+<br>
+Musik i konserthuset ”Efter arbetet”
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>19:00</strong></td>
+<td>19:00- — 
+<br>
+MINGEL och underhållning med eld och ljud i konserthusets foajé.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</p>
+<p>
+<table class="location-tbl">
+<tr>
+<td colspan="7"><h4>Torsdag 15 maj</h4></td>
+</tr>
+<tr>
+<td><strong>08:30</strong></td>
+<td>08:30-9:30 
+<br>Musik, kort tal av SFAMs ordförande. 
+Föreläsning ”Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread?” 
+<br>
+Trisha Greenhalgh
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>09:30</strong></td>
+<td>09:30-10:00 KAFFE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>10:00</strong></td>
+<td>10:00-17:00<br> Hands-on
+</td>
+<td>10:00-12:00 
+<br>
+Presentation av examensuppsatser
+</td>
+<td>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+
+<tr>
+<td><strong>12:00</strong></td>
+<td colspan="4">12:00-13:00 
+LUNCH</td>
+</tr>
+<tr>
+<td><strong>13:00</strong></td>
+<td>13:00-14:00 
+<br>
+Föreläsning”Det goda samtalet i vårdproduktionens tid” 
+<br>
+Astrid Zeeberger
+</td>
+<td>
+13:00-14:00 
+<br>Hör inte doktorn vad jag tiger om?
+<br>
+Olle Hellström<br>
+<br>
+</td>
+<td>13:00-14:30 
+<br>
+Workshop ”Konsultationen - Patientens del med hjälp av 5 kort”
+<br>Jan-Helge Larsen
+</td>
+<td>13:00-14:30 
+<br>
+Workshop ”Empathy and Hightech” 
+<br>Trisha Greenhalgh
+</td>
+<td>13:00-14:30 
+<br>
+Rådslag om Recertifiering
+<br>
+Robert Svartholm, Joel Freilich preliminärt
+</td>
+<td>13:00-14:30 
+<br>
+Symposium ”Nya rön om värk” 
+<br>moderator Malin André
+</td>
+</tr>
+<tr>
+<td><strong>14:30</strong></td>
+<td>14:30-15:00 KAFFE
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>15:00</strong></td>
+<td>15:00-15:45 
+<br>
+Årets avhandling
+</td>
+<td>15:00-15:45 
+<br>
+Föreläsning ”Samtal med de allra sjukaste: om kommunikation i palliativ vård”
+<br>Nina Cavalli-Björkman
+</td>
+<td>15:00-16:30 
+<br>
+Workshop "The first five minutes - the basis for an effective consultation" 
+<br>
+Roger Neigbour
+</td>
+<td>15:00-16:30 
+<br>
+Workshop ”Patientdelaktighet”. Konsultationsträning med skådespelarpatienter. 
+<br>
+Mats Foldevi
+</td>
+<td>15:00-16:30 
+<br>
+Seminarium ”Patientcentrering och personcentrering – är det samma sak?” 
+<br>
+moderator Cecilia Björkelund
+</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>18:30</strong></td>
+<td>18:30 --  
+<br>
+Bankett, hyllning av examinander, hissnande underhållning, musik och dans.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</p>
+<p>
+<table class="location-tbl">
+<tr>
+<td colspan="5"><h4>Fredag 16 maj</h4></td>
+</tr>
+<tr>
+<td><strong>08:30</strong></td>
+<td>08:30-09:30 
+<br>
+Musik Föreläsning ”Inchworms and also-rans, why generalism is special” 
+<br>
+Roger Neighbour
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>09:30</strong></td>
+<td>09:30-10:00 KAFFE</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>10:00</strong></td>
+<td>10:00-10:45 
+<br>
+Föreläsning "Studying and teaching "läkekonst" through art and creativity"
+<br>Charlotte Tulinius
+
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td><strong>11:00</strong></td>
+<td>11:00-12:00 
+<br>
+Nya allmänmedicinska avhandlingar. 15+5 diskussion minuter per avhandling. 
+(Mer tid eftersom det sannolikt blir fler avhandlingar)
+<br>Magnus Peterson
+<br>Ranja Strömberg
+<br>Kristin Hjörleifsdottir Steiner (prel)
+<br>---
+<br>---
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>11:00</strong></td>
+<td>11:00-12:00
+<br>
+Seminarium ”Mötet mellan migranten och vården - erfarenheter av hälsokommunikation med nyanlända”.
+ <br>
+ Maria Sundvall och Haibe Hussein, Transkulturellt centrum
+</td>
+<td>11:00-12:00 
+<br>
+Föreläsning ”Bloggande patienter och twittrande läkare. Påverkas patient, anhörig och vård?” 
+</br>Sara Natt och Dag
+</td>
+<td>11:00-11:45 
+<br>
+Föreläsning ”Kva er allmenmedicinsk kompetanse”
+</br>John Nessa
+</td>
+<td>11:00-12:00
+<br>
+Workshop ”De fem sista minuterna, avgörande för en lyckad konsultation” 
+<br>
+Charlotte Hedberg
+</td>
+</tr>
+<tr>
+<td><strong>12:00</strong></td>
+<td colspan="4">12:00-13:00 
+LUNCH</td>
+</tr>
+<td><strong>13:00</strong></td>
+<td>13:00-14:30 
+<br>
+Workshop "Developing methods to teach and study "läkekunst" 
+<br>
+Charlotte Tulinius
+</td>
+<td>13:00-14:30 
+<br>
+Symposium ”Nya rön om droger”
+<br>
+moderator Anna Nager
+</td>
+<td>13:00-14:30 
+<br>
+Korta föredrag :
+<br>Annika Andén, 
+<br>Anne Classon CEFAM
+<br>--
+<br>--
+<br>--
+</td>
+<td>13:00-14:30
+<br>
+ Seminarium ”Onödiga gruppen” 
+ <br>
+ Göran Sjönell m fl
+</td>
+<tr>
+<td><strong>14:30</strong></td>
+<td>14:30-15:00 KAFFE</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>15:00</strong></td>
+<td>15:00-15:45 
+<br>
+Avslutningsanförande "Tillbaka på jobbet måndag efter kongressen" 
+<br>Carl Edvard Rudebeck
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>15:45</strong></td>
+<td>15:45-16:00 
+<br>
+∼ Avslutning ∼
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</p>
     <div class="call-action-area">
       <a href="upload/prel program140130JJ.pdf" class="call-action-link" title="Preliminärt program">Ladda ner programmet här</a>
        </div>
