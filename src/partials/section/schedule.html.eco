@@ -6,27 +6,18 @@ Det kommer att bli en del förändringar med sådant som kan flyttas, läggas ti
 
 
 </p>
+
 <table class="location-tbl">
 <tr>
 <td colspan="7"><h4>Onsdag 14 maj</h4></td>
 </tr>
 <tr>
 <td><strong>09:00</strong></td>
-<td>09:00 Registrering</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="6">09:00 Registrering</td>
 </tr>
 <tr>
 <td><strong>09:30</strong></td>
-<td>09:30 KAFFE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="6">09:30-10:00 KAFFE</td>
 </tr>
 <tr>
 <td><strong>10:00</strong></td>
@@ -96,25 +87,15 @@ LUNCH</td>
 </tr>
 <tr>
 <td><strong>13:00</strong></td>
-<td>13:00-14:30 
+<td colspan="6">13:00-14:30 <br>
 <br>Officiell invigning av kongressen välkomsttal, musik och dans. Inledningsanförande”Vad en läkare bör kunna, några icke medicinska reflexioner”
-Göran Rosenberg
+<br>Göran Rosenberg
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>14:30</strong></td>
-<td>14:30-15:00 KAFFE
+<td colspan="6">14:30-15:00 KAFFE
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>15:00</strong></td>
@@ -149,47 +130,34 @@ SFAMs fullmäktigemöte
 </td>
 <tr>
 <td><strong>16:00</strong></td>
-<td>16:00-17:00
+<td colspan="3">16:00-17:00
 <br>
 Seminarium ”Samtal om alkohol”
 <br>
 Ingemar Engström och Charlotte Hedberg
 </td>
-<td>16:00-17:00 
+<td colspan="4">16:00-17:00 
 <br>
 ”Magar och e-learning”
 <br>
 Lars Agréus (preliminärt)
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 </tr>
 <tr>
 <td><strong>18:00</strong></td>
-<td>18:00-19:00 
+<td colspan="6">18:00-19:00 
 <br>
 Musik i konserthuset ”Efter arbetet”
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>19:00</strong></td>
-<td>19:00- — 
+<td colspan="6">19:00- — 
 <br>
 MINGEL och underhållning med eld och ljud i konserthusets foajé.
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 </p>
@@ -200,48 +168,30 @@ MINGEL och underhållning med eld och ljud i konserthusets foajé.
 </tr>
 <tr>
 <td><strong>08:30</strong></td>
-<td>08:30-9:30 
-<br>Musik, kort tal av SFAMs ordförande. 
+<td colspan="6">08:30-9:30 <br>
+<br>Musik, kort tal av SFAMs ordförande. <br><br>
 Föreläsning ”Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread?” 
 <br>
 Trisha Greenhalgh
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>09:30</strong></td>
-<td>09:30-10:00 KAFFE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="6">09:30-10:00 KAFFE</td>
 </tr>
 <tr>
 <td><strong>10:00</strong></td>
-<td>10:00-17:00<br> Hands-on
+<td colspan="2">10:00-17:00<br> Hands-on
 </td>
-<td>10:00-12:00 
+<td colspan="2">10:00-12:00 
 <br>
 Presentation av examensuppsatser
-</td>
-<td>
-</td>
-<td></td>
-<td>
-</td>
-<td>
-</td>
 </tr>
 <tr>
 
 <tr>
 <td><strong>12:00</strong></td>
-<td colspan="4">12:00-13:00 
+<td colspan="6">12:00-13:00 
 LUNCH</td>
 </tr>
 <tr>
@@ -283,13 +233,8 @@ Symposium ”Nya rön om värk”
 </tr>
 <tr>
 <td><strong>14:30</strong></td>
-<td>14:30-15:00 KAFFE
+<td colspan="6">14:30-15:00 KAFFE
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>15:00</strong></td>
@@ -324,15 +269,10 @@ moderator Cecilia Björkelund
 </tr>
 <tr>
 <td><strong>18:30</strong></td>
-<td>18:30 --  
+<td colspan="6">18:30 --  
 <br>
 Bankett, hyllning av examinander, hissnande underhållning, musik och dans.
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 </p>
@@ -343,41 +283,27 @@ Bankett, hyllning av examinander, hissnande underhållning, musik och dans.
 </tr>
 <tr>
 <td><strong>08:30</strong></td>
-<td>08:30-09:30 
+<td colspan="4">08:30-09:30 
 <br>
 Musik Föreläsning ”Inchworms and also-rans, why generalism is special” 
 <br>
 Roger Neighbour
 </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>09:30</strong></td>
-<td>09:30-10:00 KAFFE</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">09:30-10:00 KAFFE</td>
 </tr>
 <tr>
 <td><strong>10:00</strong></td>
-<td>10:00-10:45 
+<td colspan="4">10:00-10:45 
 <br>
 Föreläsning "Studying and teaching "läkekonst" through art and creativity"
 <br>Charlotte Tulinius
-
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
 </tr>
 <tr>
 <td><strong>11:00</strong></td>
-<td>11:00-12:00 
+<td colspan="4">11:00-12:00 
 <br>
 Nya allmänmedicinska avhandlingar. 15+5 diskussion minuter per avhandling. 
 (Mer tid eftersom det sannolikt blir fler avhandlingar)
@@ -387,9 +313,6 @@ Nya allmänmedicinska avhandlingar. 15+5 diskussion minuter per avhandling.
 <br>---
 <br>---
 </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>11:00</strong></td>
@@ -451,31 +374,22 @@ Korta föredrag :
 </td>
 <tr>
 <td><strong>14:30</strong></td>
-<td>14:30-15:00 KAFFE</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">14:30-15:00 KAFFE</td>
 </tr>
 <tr>
 <td><strong>15:00</strong></td>
-<td>15:00-15:45 
+<td colspan="4">15:00-15:45 
 <br>
 Avslutningsanförande "Tillbaka på jobbet måndag efter kongressen" 
 <br>Carl Edvard Rudebeck
 </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><strong>15:45</strong></td>
-<td>15:45-16:00 
+<td colspan="4">15:45-16:00 
 <br>
 ∼ Avslutning ∼
 </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 </p>
