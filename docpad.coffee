@@ -149,6 +149,10 @@ module.exports =
       name: "Västeråsstad"
       logo: "upload/vasteras_stad_logga.jpg"
       url: "http://www.vasteras.se/"
+    ,
+      name: "Praktikertjänst"
+      logo: "upload/Logga_praktikertj.jpg"
+      url: "http://www.praktikertjanst.se/"
     ]
     
     # List of Partners
