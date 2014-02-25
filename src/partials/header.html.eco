@@ -7,7 +7,7 @@
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
     <div class="call-action-area">
       <span class="price"><%= @conf.price %></span>
-      <a href="http://www.sfam.se/index.php?option=com_rsform&formId=47
+      <a href="http://dedi40.fsdata.se/~sfam/old/index.php?option=com_rsform&formId=47
       " class="call-action-link" title="Register now!">Anmäl dig här!</a>
        </div>
   </div>
