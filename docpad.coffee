@@ -33,7 +33,7 @@ module.exports =
     # Active sections on the website
     # to deactivate comment out with '//'
     # you can also change order here and it will reflect on page
-    sections: ["about", "location", "speakers", "schedule", "examinand", "social", "sponsors", "partners", "contact"]
+    sections: ["about", "location", "speakers", "schedule", "examinand", "social", "ovriga", "sponsors", "partners", "contact"]
     
     # 'contact'
     
@@ -45,6 +45,7 @@ module.exports =
       schedule: "Program"
       examinand: "Examinand"
       social: "Sociala aktiviteter"
+      ovriga: "Intressegrupper"
       sponsors: "Sponsorer"
       partners: "Medarbetare"
       contact: "Kontakt"

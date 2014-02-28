@@ -1,0 +1,57 @@
+<h2 class="section-title"><%= @labels['ovriga'] %></h2>
+<table class="location-tbl">
+  <tr>
+    <td colspan="3"><strong>Mötesschema för Sfams intressegrupper
+      </strong></td>
+    
+  </tr><tr>
+    <td>Starttid
+    </td>
+    <td><strong>Onsdag 14/5</strong>
+    </td>
+    <td><strong>Torsdag 15/5</strong>
+    </td>
+    
+    
+  </tr>
+  <tr>
+    <td>10:00
+    </td>
+    <td>10:00-12:00
+      <br>
+      Studierektorsmöte 
+    </td>
+    <td>10:00-12:00
+      <br>Fortbildningsrådet 
+    </td>
+    
+  </tr>
+  <tr>
+    <td>15:00
+    </td>
+    <td>15:00-16:00
+      <br>
+      NAAKA, SFAM's nätverk för
+      <br>
+      astma- och allergi- och <br>
+      KOL-intresserade allmänläkare
+    </td>
+    <td>
+    </td>
+    
+  </tr>
+<tr>
+    <td>17:00
+    </td>
+    <td>
+    </td>
+    <td>17:00 
+      <br>
+      Nordisk kongress 2015
+<br>
+Göteborgs organisationskommitté 
+
+    </td>
+    
+  </tr>
+</table>
