@@ -12,4 +12,4 @@ SFAMs vetenskapsråd bidrar med ett flertal inslag på kongressen. Docent **Mali
 
 Symposiet presenterar nya rön om långvarig värk bland olika patientgrupper. Dessutom kommer symposiet beskriva patient-läkarkontakten och läkarens upplevelse av dessa patienter och berätta om hur arbete i multidisciplinära team kan underlätta arbetet för läkaren
 
-
+<img class="photo" src="upload/monica_lofvander.jpg"><img class="photo" src="upload/Per Wandell.jpg"><img class="photo" src="upload/Per Kristianson.jpg"><img class="photo" src="upload/MagnusP.jpg"><img class="photo" src="upload/Mia Hemborg.jpg">    
