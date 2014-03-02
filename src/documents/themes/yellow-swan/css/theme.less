@@ -112,13 +112,18 @@ nav {background: #2f2f2f;}
 /* =============================================================================
    SPEAKER
    ========================================================================== */
-.speaker-photo .photo {
+.speakers-item .photo {
   border-radius: 50%;
   box-shadow: 0 0 0 8px rgba(0,0,0,.07);
   .transition(all 0.3s ease-out);
-  opacity: 0.3;
+  opacity: 0.9;
 }
-.speakers-item:hover .speaker-photo .photo {
+.speakers-item p .photo {
+  width: 100px;
+  height: 100px;
+
+}
+.speakers-item:hover .photo:hover {
   opacity: 1;
   box-shadow: 0 0 0 8px rgba(0,0,0,.3);
 }
