@@ -1,3 +1,5 @@
+
+
 <h2 class="section-title"><%= @labels['ovriga'] %></h2>
 <table class="location-tbl">
   <tr>
@@ -24,6 +26,13 @@
     <td>10:00-12:00
       <br>Fortbildningsrådet 
     </td>
+    <tr>
+      <td>11:00</td>
+      <td>11:00<br>
+        Rådet för sköra äldre
+      </td>
+        
+  </tr>
     
   </tr>
   <tr>
