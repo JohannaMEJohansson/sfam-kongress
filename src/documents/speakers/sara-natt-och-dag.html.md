@@ -9,4 +9,4 @@ presentation:
   description: ""
   time: ""
 ---
-Sara Natt och Dag är socionom, författare och skribent. Hon är också kurator vid Traumaenheten, på Karolinska Universitetssjukhuset, Solna. Hon har påbörjat ett forskningsarbete vid Karolinska Institutet vad gäller bloggande cancerpatienter.
+**Sara Natt och Dag** är socionom, författare och skribent. Hon är också kurator vid Traumaenheten, på Karolinska Universitetssjukhuset, Solna. Hon har påbörjat ett forskningsarbete vid Karolinska Institutet vad gäller bloggande cancerpatienter.

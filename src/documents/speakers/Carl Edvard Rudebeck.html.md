@@ -8,7 +8,8 @@ presentation:
   description: ""
   time: ""  
 ---
-Carl Edvard Rudebeck avslutar kongressen med en betraktelse ”Tillbaka på jobbet måndag morgon efter kongressen”.
+Avslutningsanförande.
+**Carl Edvard Rudebeck** avslutar kongressen med en betraktelse ”Tillbaka på jobbet måndag morgon efter kongressen”.
 
 För deltagaren är den allmänmedicinska kongressen fortbildning och gemenskap. För professionen en rit där den visar upp sig och firar. Inspirerade reser deltagarna hem var och en till sin måndag. 
 

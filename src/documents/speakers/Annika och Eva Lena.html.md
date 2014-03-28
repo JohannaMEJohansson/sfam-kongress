@@ -8,6 +8,6 @@ presentation:
   description: ""
   time: ""
 ---
-Workshop med Annika Brorsson och Eva Lena Strandberg båda allmänläkare i Malmö
+Workshop med **Annika Brorsson** och **Eva Lena Strandberg** båda allmänläkare i Malmö
 
 Kvalitativa metoder är varken bättre eller sämre än kvantitativa, men besvarar andra frågor. Vi ger en kort introduktion och låter deltagarna hitta egna exempel.

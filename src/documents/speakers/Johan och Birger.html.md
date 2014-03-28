@@ -8,6 +8,6 @@ presentation:
   description: ""
   time: ""
 ---
-Workshop med Johan Carlander specialist i kirurgi, Västerås och Birger Thorell allmänläkare och med dr, Kungsör/ Västmanland. 
+Workshop med **Johan Carlander** specialist i kirurgi, Västerås och **Birger Thorell** allmänläkare och med dr, Kungsör/ Västmanland. 
 Vad som kan vara bra att veta på vårdcentralen angående proktologiska besvär. Vilka skall remitteras till vad? Vad en basal kirurgisk utredning innefattar. Gå igenom de viktigaste diagnoserna med deras aktuella behandlingsalternativ.
 

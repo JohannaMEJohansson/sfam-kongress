@@ -8,9 +8,9 @@ presentation:
   description: ""
   time: ""
 ---
-
-Moderator är Ture Ålander, allmänläkare i Uppsala. 
-Läkemedelsboken på nätet presenteras av Staffan Living, AT-läkare. Internetmedicin.se presenteras av dess vd Steven Shev. Ingvar Krakau representerar Medibas och från Studentlitteratur, allmanmedicin.se, medverkar Eva Norell.
+Ett seminarium sponsrat av Internetmedicin.se, Medibas, Allmanmedicin.se/ Studentlitteratur och Läkemedelsboken. 
+Moderator är **Ture Ålander**, allmänläkare i Uppsala. 
+Läkemedelsboken på nätet presenteras av **Staffan Living**, AT-läkare. Internetmedicin.se presenteras av dess vd **Steven Shev**. **Ingvar Krakau** representerar Medibas och från Studentlitteratur, allmanmedicin.se, medverkar **Eva Norell**.
 På utställningen finns möjligheter att ytterligare möjligheter att bilda sig en uppfattning om dessa beslutsstöd på internet. 
 <br>(*Från vänster, Staffan Living, Steven Shev, Ingvar Krakau, Eva Norell.*)
 
