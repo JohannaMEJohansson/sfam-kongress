@@ -11,9 +11,4 @@ Kongressen har beslutat att i princip<em> inte</em> sponsras av hyrläkarföreta
     </a>
   </li>
 <% end %>
-  <li class="sponsor-item">
-    <a class="sponsor-logo sponsor-link sponsor-call" href="#">
-    	<img src="<%= @getTheme() %>/img/your-logo.jpg" alt="your logo" class="photo">
-    </a>
-  </li>
 </ul>
