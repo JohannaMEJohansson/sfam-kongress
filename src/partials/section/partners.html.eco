@@ -1,11 +1,14 @@
-<h2 class="section-title"><%= @labels['partners'] %></h2>
-<ul class="partners-list">
+<h2 class="section-title"><%= @labels['partners'] %></h2><img class="photo" src="../upload/KongressGruppen.jpg" height="350px">
+<br>
+<br>
+<p>Kongressen organisationskommitté:<br>
+<br>
 
-<% for partner in @partners: %>
-  <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="<%= partner.url %>" class="partner-logo partner-link" itemprop="url">
-      <img src="<%= partner.logo %>" alt="<%= partner.name %>" class="photo" itemprop="image">
-    </a>
-  </li>
-<% end %>
-</ul>
+Marie Sundt, Kongresspresident.<br>
+Kjell Jansson, examen och musik. <br>
+Jonas Foldevi, IT och toastmaster. <br>
+Jonas Sjögreen, program, marknadsföring och sponsring, <br>
+Jenny Krifors, program och tryck. <br>
+Reka Hunyadi Velle, underhållning och mat.<br> 
+Monica Löfvander, forskning och vetenskap<br>
+Margareta Ehnebom, budget och logistik.<br></p>

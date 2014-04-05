@@ -1,6 +1,6 @@
 ---
 name: "Lärcentrum, Landstinget Västmanland"
-photo: "upload/Larcentrum.jpg"
+photo: "upload/Landstingetvstmlloggan.gif"
 pageOrder: "9"
 
 presentation:
