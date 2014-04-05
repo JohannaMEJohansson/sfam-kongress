@@ -4,7 +4,7 @@ photo: "upload/.jpg"
 pageOrder: "9"
 
 presentation:
-  title: "När det behövs en kvalitativ ansats för att besvara din forskningsfråga?"
+  title: "När behövs det en kvalitativ ansats för att besvara din forskningsfråga?"
   description: ""
   time: ""
 ---
