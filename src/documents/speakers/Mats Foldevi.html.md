@@ -15,3 +15,5 @@ Begreppet Shared Decision Making har växt fram under senare år som en naturlig
 Vid Hälsouniversitet i Linköping har vi skapat en modell där detta begrepp presenteras och tränas under den senare delen av utbildningen. Med hjälp av simulerade patienter får våra studenter träna att genomföra hela konsultationer med patienter som utgör utmaningar på flera sätt. Målsättningen är både att påminna och utvärdera hur patientcentrerade studenterna är i möten samt att ge dem möjlighet att under trygga former även träna avslutningen av konsultationen, med patienten delaktig. Det ingår även möten med svåra besked, omotiverade patienter och krävande patienter.
 Denna modell kommer presenteras och även praktiskt beskrivas med hjälp av videoinspelade samtal. 
 
+
+
