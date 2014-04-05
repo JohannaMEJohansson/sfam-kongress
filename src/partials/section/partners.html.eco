@@ -1,4 +1,4 @@
-<h2 class="section-title"><%= @labels['partners'] %></h2><img class="photo" src="../../upload/KongressGruppen.jpg" height="350px">
+<h2 class="section-title"><%= @labels['partners'] %></h2><img class="photo" src="/../upload/KongressGruppen.jpg" height="350px">
 <br>
 <br>
 <p>Kongressen organisationskommitté:<br>
