@@ -8,7 +8,6 @@ presentation:
 	description: ""
 	time: ""
 ---
-
 **Astrid Seeberger** är docent och överläkare vid Karolinska Sjukhuset.
 Hon leder också strimman Professionell Utveckling i den nya läkarutbildningen
 på Karolinska Institutet. Hon är författare till en uppmärksammad

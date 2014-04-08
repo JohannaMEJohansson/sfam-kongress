@@ -1,6 +1,6 @@
 ---
 name: "Mats Foldevi"
-photo: "upload/Mats Foldevi.jpg"
+photo: "upload/MatsFoldevi.jpg"
 pageOrder: "9"
 
 presentation:
