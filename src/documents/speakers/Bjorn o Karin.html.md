@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "KOL, en utmaning för oss i primärvåren. Vad har hänt det senaste decenniet?"
   description: ""
-  time: ""
+  time: "Ons 10:00-10:45              Rum 108"
 ---
 **Björn Ställberg** och **Karin Lisspers** är båda allmänläkare vid vårdcentralen i Gagnef och medicine doktorer vid Uppsala universitet. De samarbetar dessutom i NAAKA, Nätverket för Astma-, Allergi- och KOL-intresserade Allmänläkare. 
 De leder en interaktiv workshop om KOL sjukdomsutveckling och prognos, diagnostik och behandlingsstrategier utifrån studier, riktlinjer och egna erfarenheter kommer att diskuters.

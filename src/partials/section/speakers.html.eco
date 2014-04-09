@@ -6,6 +6,9 @@
     <% if speaker.photo: %>
       <span class="speaker-photo">
         <img class="photo" src="<%= speaker.photo %>" alt="<%= speaker.name %>" itemprop="image">
+        <div class="time">
+          <%= speaker.presentation && speaker.presentation.time %>
+        </div>
       </span>
     <% end %>
 <% if speaker.presentation: %>

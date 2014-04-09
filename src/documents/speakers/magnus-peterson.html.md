@@ -6,7 +6,7 @@ pageOrder: "2"
 presentation:
   title: "Träning minskar smärtan vid kronisk tennisarmbåge"
   description: ""
-  time: ""
+  time: "Fre 11:00-12:00             Lilla kongresshallen"
 
 
 ---

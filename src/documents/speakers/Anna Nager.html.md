@@ -6,7 +6,7 @@ pageOrder: "6"
 presentation:
     title: "Droger i primärvården"
     description: ""
-    time: ""
+    time: "Fre 13:00-14:30             Stora kongresshallen"
 ---
 Symposium.
 Kan snusning vara bra? Blir man deprimerad av att röka? Högt blodsocker-är det alkoholen? Tre allmänläkare och en socionom presenterar sin forskning och de senaste rönen om alkohols och tobaks effekter på kroppen. Lär dig mer om hur dessa droger påverkar glukosnivåer och övre gastrointestinal kanal samt vilket samband de har med depression bland primärvårdspatienter.<br>

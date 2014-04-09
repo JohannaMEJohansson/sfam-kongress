@@ -6,7 +6,7 @@ pageOrder: "4"
 presentation:
   title: "Konsultationen - Patientens del med hjälp av  5 kort"
   description: ""
-  time: ""
+  time: "Tors 13:00-14:30           Rum 301"
 ---
 Konsultationskonst kommer att belysas ur flera perspektiv på kongressen. 
 

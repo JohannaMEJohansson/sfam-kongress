@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Magont hos barn"
   description: ""
-  time: ""
+  time: "Ons 10:00-10:45           Rum 201"
 ---
 En workshop som kommer att belysa funktionella respektive organiska orsaker till magont hos barn samt vilka anamnestiska uppgifter och diagnostiska metoder som är användbara vid bedömning.
 

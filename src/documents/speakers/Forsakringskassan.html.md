@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "En enklare och bättre sjukförsäkringsprocess"
   description: ""
-  time: ""
+  time: "Ons 15:00-16:00            Stora kongresshallen"
 ---
 Ett seminarium som är sponsrat av Försäkringskassan.<br>
 I det innovativa samarbetet mellan hälso- och sjukvården och Försäkringskassan utvecklas sjukskrivningsprocessen i snabb takt inom många områden. 

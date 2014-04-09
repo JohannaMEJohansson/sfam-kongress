@@ -6,7 +6,7 @@ pageOrder: "20"
 presentation:
   title: "Kvalitetsdialog inom Praktikertjänst - ett kollegialt sätt att stödja varandra i kvalitetsarbetet."
   description: ""
-  time: ""
+  time: "Ons 11:00-12:00             Rum 302"
 ---
 Ett seminarium sponsrat av Praktikertjänst.
 Inom Praktikertjänst finns det cirka 80 vårdcentraler. 

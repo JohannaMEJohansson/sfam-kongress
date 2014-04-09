@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Livsstilsmottagning på vårdcentral"
   description: ""
-  time: ""  
+  time: "Ons 11:00-12:00                   Rum 301"  
 ---
 Två praktiska exempel på hur du kan arbeta strukturerat med livsstilsfrågor. Kom och inspireras till att starta en livsstilsmottagning på din vårdcentral!
 Ett seminarium som initierats av ”Levnadsvaneprojektet” presenteras av **Mattias Damberg** som är docent vid KI och allmänläkare i Västerås och **Maria Waller** leg läkare och doktorand vid enheten för allmänmedicin, Göteborgs Universitet.

@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Patienten som person – patientcentrerad metodik och personcentrerad vård i kliniken."
   description: ""
-  time: ""  
+  time: "Tors 15:00-16:30          Lilla kongresshallen"  
 ---
 
 Workshop med **Cecilia Björkelund**, professor i allmänmedicin vid Göteborgs universitet.

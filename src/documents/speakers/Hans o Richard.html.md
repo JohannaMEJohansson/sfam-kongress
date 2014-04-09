@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Stark för operation- stark för livet!"
   description: ""
-  time: ""
+  time: "Fre 13:00-14:30           Lilla kongresshallen"
 ---
 Är det ur etisk synvinkel korrekt att remittera patienter som röker till operation? **Hans Brandström**, specialist i Allmänmedicin och **Richard Löfvenberg**, specialist i ortopedi och  docent håller tillsammans ett kort föredrag.
 

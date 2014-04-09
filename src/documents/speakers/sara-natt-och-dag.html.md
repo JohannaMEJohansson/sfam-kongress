@@ -7,6 +7,6 @@ pageOrder: "9"
 presentation:
   title: "Bloggande patienter och twittrande läkare. Påverkas patient, anhörig och vård?"
   description: ""
-  time: ""
+  time: "Fre 11:00-12:00                Stora kongresshallen"
 ---
 **Sara Natt och Dag** är socionom, författare och skribent. Hon är också kurator vid Traumaenheten, på Karolinska Universitetssjukhuset, Solna. Hon har påbörjat ett forskningsarbete vid Karolinska Institutet vad gäller bloggande cancerpatienter.

@@ -6,7 +6,7 @@ pageOrder: "12"
 presentation:
 	title: "Det goda samtalet i vårdproduktionens tid"
 	description: ""
-	time: ""
+	time: "Fre 11:00-12:00         Hörsalen"
 ---
 **Astrid Seeberger** är docent och överläkare vid Karolinska Sjukhuset.
 Hon leder också strimman Professionell Utveckling i den nya läkarutbildningen

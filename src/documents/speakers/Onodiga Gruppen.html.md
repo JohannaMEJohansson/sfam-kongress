@@ -7,7 +7,7 @@ pageOrder: "3"
 presentation:
   title: "Finns onödiga åtgärder i primärvården?"
   description: ""
-  time: ""
+  time: "Ons 10:30-12:00 Lilla kongresshallen"
 ---
 En workshop med ”Onödiga gruppen”<br>
 Vid årsmötet 2013 tillsatte styrelsen på initiativ av SFAM Östergötland en arbetsgrupp för att analysera och beskriva "en evidensbaserad fempunktslista över onödiga eller skadliga åtgärder inom vår specialitet". Workshopen leds av med dr **Göran Sjönell** och kommer att diskutera gruppens rapport. 

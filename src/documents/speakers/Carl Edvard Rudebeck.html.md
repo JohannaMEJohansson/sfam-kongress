@@ -6,7 +6,7 @@ pageOrder: "17"
 presentation:
   title: "Tillbaka på jobbet måndag efter kongressen"
   description: ""
-  time: ""  
+  time: "Fre 15:00-15:45           Stora kongresshallen"  
 ---
 Avslutningsanförande.
 **Carl Edvard Rudebeck** avslutar kongressen med en betraktelse ”Tillbaka på jobbet måndag morgon efter kongressen”.

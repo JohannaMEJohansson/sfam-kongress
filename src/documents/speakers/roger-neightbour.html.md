@@ -6,7 +6,7 @@ pageOrder: "10"
 presentation:
   title: "Inchworms and also-rans - why generalism is special"
   description: ""
-  time: ""
+  time: "Tors 15:00-16:30           Rum 301"
 ---
 
 Vi är mycket stolta över att **Roger Neighbour**, fd president i Royal College of General Practitioners, RCGP, kommer till kongressen. Han är en internationellt mycket uppskattad lärare, föreläsare och inspiratör inom allmänmedicinsk utbildning. Hans specialområde är konsultationen och har bland annat skrivit boken ¨The inner consultation¨ 

@@ -6,7 +6,7 @@ pageOrder: "4"
 presentation:
     title: "Nya rön om värk"
     description: ""
-    time: ""
+    time: "Tors 13:00-14:30              Lilla kongresshallen"
 ---
 Symposium.
 SFAMs vetenskapsråd bidrar med ett flertal inslag på kongressen. Docent **Malin André** är moderator för symposiet ”Nya rön om värk” 

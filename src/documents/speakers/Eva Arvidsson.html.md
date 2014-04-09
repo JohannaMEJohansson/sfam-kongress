@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Årets avhandling: Priority setting and rationing in primary health care"
   description: ""
-  time: ""
+  time: "Tors 15:00-15:45          Stora kongresshallen"
 ---
 SFAMs forskningsråd har utsett årets avhandling som skrivits av **Eva Arvidsson**.
 Eva Arvidsson är allmänläkare vid FOU-enheten i Jönköping och med dr vid Linköpings universitet. Hon är också knuten till SFAM-Q och Prioriteringscentrum. 

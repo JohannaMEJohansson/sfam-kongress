@@ -5,7 +5,7 @@ pageOrder: "8"
 presentation:
   title: "Hör inte doktorn vad jag tiger om"
   description: ""
-  time: ""
+  time: "Tors 13:00-14:00            Rum 202"
 ---
 
 **Olle Hellström**, med dr och distriktsläkare i Borlänge aktuell i en engagerad och engagerande diskussion på SFAMs Ordbyte kommer att tala på kongressen i Västerås.

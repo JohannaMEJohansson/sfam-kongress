@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Patientdelaktighet"
   description: ""
-  time: ""
+  time: "Fre 13:00-14:30            Rum 302"
 ---
 Workshop med **Mats Foldevi**, docent i allmänmedicin Linköpings Universitet. Institutionen för Medicin och Hälsa.
 Att göra patienten delaktig - en lagstadgad rättighet - men också det område som våra patienter är minst nöjda med. 

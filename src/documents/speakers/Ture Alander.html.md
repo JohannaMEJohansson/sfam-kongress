@@ -6,7 +6,7 @@ pageOrder: "9"
 presentation:
   title: "Beslutsstöd på internet"
   description: ""
-  time: ""
+  time: "Tors 13:00-14:30            Stora kongresshallen"
 ---
 Ett seminarium sponsrat av Internetmedicin.se, Medibas, Allmanmedicin.se/ Studentlitteratur och Läkemedelsboken. 
 Moderator är **Ture Ålander**, allmänläkare i Uppsala. 

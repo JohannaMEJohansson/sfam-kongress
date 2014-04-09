@@ -5,7 +5,7 @@ pageOrder: "00"
 presentation:
   title: ""
   description: ""
-  time: ""
+  time: "Ons 15:00-15:45       Rum 301"
 ---
 **Christer Petersson**, med dr och distriktsläkare i Växjö, är en uppskattad skribent i Allmänmedicin och Läkartidningen under många år. 
 

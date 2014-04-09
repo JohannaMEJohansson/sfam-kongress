@@ -6,7 +6,7 @@ pageOrder: "1"
 presentation:
   title: "Managing multi-morbidity in an ageing population: Can dead philosophers help where guideline-makers fear to tread?"
   description: ""
-  time: ""
+  time: "Tors 08:30-9:30          Stora kongresshallen"
 ---
 
 **Trisha Greenhalgh**, professor i allmänmedicin i London är en av kongressens mest spännande föreläsare. På torsdag morgon den 15 maj får vi höra henne utveckla tankar om  

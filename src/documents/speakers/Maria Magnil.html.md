@@ -6,7 +6,7 @@ pageOrder: "2"
 presentation:
   title: "Mild to moderate depression in the elderly in Priamary Care-detection, patientcentredness and course."
   description: ""
-  time: ""  
+  time: "Fre 11:00-12:00              Lilla kongresshallen"  
 ---
 **Maria Magnil** presenterar sin avhandling ”Mild to moderate depression in the elderly in Priamary Care-detection, patientcentredness and course”.
  
