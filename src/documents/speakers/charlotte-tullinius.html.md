@@ -6,7 +6,7 @@ pageOrder: "12"
 presentation:
   title: "Studying and teaching - läkekonst - through art and creativity"
   description: ""
-  time: "Fre 10:00-10:45        Stora kongresshallen"  
+  time: "Fre 10:00-10:45 Stora kongresshallen och en workshop 13:00-14:30 Rum 301."  
 ---
 **Charlotte Tulinius** Associate Professor of Postgraduate Education, Köpenhamn och Cambridge.
 
