@@ -154,6 +154,10 @@ module.exports =
       name: "Praktikertjänst"
       logo: "upload/Logga_praktikertj.jpg"
       url: "http://www.praktikertjanst.se/"
+    ,
+      name: "Försäkringskassan"
+      logo: "upload/FK logga.jpg"
+      url: "http://www.forsakringskassan.se/"
     ]
     
     # List of Partners
