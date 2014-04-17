@@ -8,11 +8,11 @@ presentation:
   description: ""
   time: "Fre 08:30-09:30 Stora kongresshallen och en workshop tors 15:00-16:30 Rum 301"
 ---
+Den tiden är förbi, eller borde vara det, då den lokalt förankrade allmänläkaren rankades lägre än sjukhusspecialisten. Doktor **Roger Neighbour**, tidigare ordförande i Storbritanniens Royal College of General Practitioners, reflekterar kring varför generalisten är själva sinnebilden av vetenskapligt tänkande efter Einstein och en förebild för hur vetenskapen ska föras ut till allmänheten på rätt sätt.
 
-Vi är mycket stolta över att **Roger Neighbour**, fd president i Royal College of General Practitioners, RCGP, kommer till kongressen. Han är en internationellt mycket uppskattad lärare, föreläsare och inspiratör inom allmänmedicinsk utbildning. Hans specialområde är konsultationen och har bland annat skrivit boken ¨The inner consultation¨ 
-Han kommer att hålla en föreläsning med titeln
+Roger Neighbours specialområde är konsultationen och har bland annat skrivit boken ”The inner consultation”. Han kommer att hålla en föreläsning på fredagen med titeln ”Inchworms and also-rans: why generalism is special” (fritt översatt ”Mätarlarver och andra deltagare i loppet”).
 
-Inchworms and also-rans: why generalism is special. Hans bildtexter kommer att översättas till svenska. 
+Han leder en workshop redan på torsdagen ”The first five minutes - the basis for an effective consultation”.
 
-Han har också en workshop 
-¨The first five minutes the basis for an effective consultation¨.
+
+
