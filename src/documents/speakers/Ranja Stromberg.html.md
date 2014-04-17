@@ -1,0 +1,14 @@
+---
+name: "Ranja Strömberg de Sousa Soares"
+photo: "upload/Ranja Stromberg.jpg"
+pageOrder: ”9”
+presentation:
+  title: "Depression in Primary Care: Detection, Description and Mortality"
+  description: ""
+  time: "Fre 11:00-12:00                          Lilla kongresshallen"
+---
+**Ranja Strömberg** är allmänläkare på Serafen i Stockholm och är sedan hösten 2013 engagerad på läkarutbildningen på Karolinska Institutet på termin 6.  
+Hon försvarade sin avhandling ”Depression in Primary Care: Detection, Description and Mortality” på internationella kvinnodagen 8 mars 2013.
+ 
+Vägen dit beskriver Ranja Strömberg så här: ”1997 började jag reflektera kring varför väntrumment alltid var fullt på vår drop-in mottagning, oavsett hur mycket vi jobbade, vissa patienter var mångbesökare. Discussioner kring hur dessa patienter egentligen mådde och hur de skulle kunna hjälpas bättre med handledare på Centrum för Allmänmedicin i Stockholm ledde till att jag tillsammans med min kollega skulle göra en liten studie om depression hos våra drop-in patienter. Resultatet blev för min del projektplaner, ansökningar om forskningsanslag och kurser i forskningsmetodik under många år parallellt med arbete som husläkare. Jag kommer att presentera några fynd från dessa studier.”
+
