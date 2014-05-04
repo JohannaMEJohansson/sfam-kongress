@@ -1,8 +1,6 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
 <p>
-Nu är det första preliminära programmet för kongressen i Västerås klart!
-<br>
-Det kommer att bli en del förändringar med sådant som kan flyttas, läggas till och kanske dras ifrån.
+Nu är programmet för kongressen i Västerås klart!
 <br>
 <em>(Tillhör du en av Sfams intresseorganisationer har vi samlat dessa möten <a href="#ovriga"</a> här</a>)</em>
 
@@ -404,7 +402,7 @@ Avslutningsanförande "Tillbaka på jobbet måndag efter kongressen"
 </table>
 </p>
     <div class="call-action-area">
-      <a href="upload/program med rum140409JJpdf.pdf" class="call-action-link" title="Preliminärt program">Ladda ner programmet här</a>
+      <a href="upload/SFAM kongress progr.pdf" class="call-action-link" title="Program">Ladda ner programmet här</a>
        </div>
        
 </p>
